@@ -1,0 +1,28 @@
+{
+    "gg": {
+        "fov_radius": 150.0,
+        "selected_color": [
+            255,
+            254,
+            254
+        ],
+        "RGB_speed": 0.05,
+        "offsetX": 0.0,
+        "offsetY": -20.0,
+        "smooth_factor": 1.0,
+        "aimbot_key": "RBUTTON"
+    },
+    "aaaa": {
+        "fov_radius": 10.0,
+        "selected_color": [
+            255,
+            254,
+            254
+        ],
+        "RGB_speed": 0.05,
+        "offsetX": 0.0,
+        "offsetY": -20.0,
+        "smooth_factor": 1.0,
+        "aimbot_key": "RBUTTON"
+    }
+}
